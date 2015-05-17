@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="oct">
+    <output-path>$PROJECT_DIR$/out/artifacts/oct</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="oct" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.1.6.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
